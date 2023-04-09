@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner.00338139DF8\Local Settings\Application Data\Temporary Projects\Scheduler\bin\Release\Scheduler.exe
+C:\Documents and Settings\Owner.00338139DF8\Local Settings\Application Data\Temporary Projects\Scheduler\bin\Release\Scheduler.pdb
+C:\Documents and Settings\Owner.00338139DF8\Local Settings\Application Data\Temporary Projects\Scheduler\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner.00338139DF8\Local Settings\Application Data\Temporary Projects\Scheduler\obj\Release\Scheduler.exe
+C:\Documents and Settings\Owner.00338139DF8\Local Settings\Application Data\Temporary Projects\Scheduler\obj\Release\Scheduler.pdb
